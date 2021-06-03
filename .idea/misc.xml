@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/gensim_word2vec/wiki_data/zh.jian.wiki.seg-1.3g.txt" />
+    <file url="file://$PROJECT_DIR$/kaggle_word2vec/stopwords.txt" />
+    <file url="file://$PROJECT_DIR$/tensorflow-word2vec/280.txt" />
+    <file url="file://$PROJECT_DIR$/tensorflow-word2vec/2800.txt" />
+    <file url="file://$PROJECT_DIR$/tensorflow-word2vec/stop_words.txt" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (nlp)" project-jdk-type="Python SDK" />
+</project>

@@ -1,0 +1,6 @@
+/gensim_word2vec/jieba_dict/
+/gensim_word2vec/model/
+/gensim_word2vec/wiki_data/
+/kaggle_word2vec/data/
+/kaggle_word2vec/models/
+/tensorflow-word2vec/model/
